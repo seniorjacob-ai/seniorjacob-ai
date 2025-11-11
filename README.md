@@ -120,7 +120,6 @@ Senior AI/ML Engineer with extensive expertise in developing, deploying, and sca
 
 ## 📈 GitHub Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FinalGoal-hub&theme=dark)](https://git.io/streak-stats)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FinalGoal-hub&theme=radical&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seniorjacob-ai&theme=dark)](https://git.io/streak-stats)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=seniorjacob-ai&theme=radical&hide_border=true)
 
-[![jacob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FinalGoal-hub&bg_color=000000&color=e70db8&line=0b12da&point=eee2eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
